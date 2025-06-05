@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shoaib (@Shoaib-123Pulhr)
+# 👋 Hi, I'm Muhammad Shoaib 
 
 ### 🌟 About Me
 - 👀 I’m interested in "computer science, programming, and technology" 
