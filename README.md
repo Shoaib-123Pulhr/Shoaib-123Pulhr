@@ -1,14 +1,7 @@
 # 👋 Hi, I'm Muhammad Shoaib 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/214978766" width="150" style="border-radius: 50%; border: 3px solid transparent; animation: border-pulse 2s infinite;"/>
+  <img src="https://avatars.githubusercontent.com/u/214978766" width="150" style="clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);"/>
 </p>
-<style>
-  @keyframes border-pulse {
-    0% { border-color: #2f80ed; }
-    50% { border-color: #eb5757; }
-    100% { border-color: #2f80ed; }
-  }
-</style>
 
 ### 🌟 About Me
 - 👀 I’m interested in "computer science, programming, and technology" 
