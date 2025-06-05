@@ -1,4 +1,7 @@
 # 👋 Hi, I'm Muhammad Shoaib 
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/214978766" width="150" style="border-radius: 50%; border: 3px solid #0077b5;"/>
+</p>
 
 ### 🌟 About Me
 - 👀 I’m interested in "computer science, programming, and technology" 
