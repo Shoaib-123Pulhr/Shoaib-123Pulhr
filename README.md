@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Shoaib 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/214978766" width="150" style="border-radius: 50%; border: 3px solid #0077b5;"/>
+  <img src="https://avatars.githubusercontent.com/u/214978766" width="150" style="border-radius: 50%; border: 3px solid #0077b5;box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);"/>
 </p>
 
 ### 🌟 About Me
