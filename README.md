@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning "the fundamentals of computer science"
 - 💞️ I’m looking to collaborate on "open-source projects or beginner-friendly initiatives"
 - 📫 How to reach me: "shoaibimran4569@gmail.com"
+- 🌐 Visit my portfolio: shoaibimran.codes
 - 😄 Pronouns: "He/Him"
 - ⚡ Fun fact: "I can solve the coding  problems with the limited time!"
 
